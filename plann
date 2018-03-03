@@ -44,11 +44,6 @@ repo
 		scripts.js (?)
 		event-listeners.js
 		materialize
-	specs.md
-		event listeners
-			what user story they support
-		functions
-			specs
 	tests
 		gremlins.js
 		others?  think not
