@@ -7,7 +7,7 @@ This website is a web portfolio.  It exists so employers and other developers ca
 ### Index:
 * [User Stories](#user-stories)
 * [Story Dependencies](#story-dependencies)
-* [Dev Schedule](#dev-schedule)
+* [Dev Schedule](#development-schedule)
 * [Wireframe](https://wireframe.cc/wPUR6v)
 * [Notes](#notes)
 
@@ -40,8 +40,11 @@ In no particular order, a user can ...
 
 Here is a tree that orders the user stories by dependence.  ie. Before a user can click on a thumbnail, there must be able to see it.
 
+
 ![](./user-stories-dependencies.png)
 
+
+This site has very simple and isolated user stories, these trees will get more interesting.
 
 [TOP](#index)
 
@@ -67,22 +70,22 @@ I'll develop the features in this order, respecting their dependencies (ie. not 
 
 ## Notes
 
-Things I learned:
+__Things I learned__:
 * Monkey testing
 * User stories
 * Materialize classes
 * Live-Reloader
 
-New vocab words:
+__New vocab words__:
 * Transpiler
 * Design Thinking
 
-Struggles I had:
+__Struggles I had__:
 * Building my dependency tree
 * Setting up Gremlins.js
 * Expanding jobs on hover
 
-Plans for improving:
+__Plans for improving__:
 * Work on configuring Gremlins.js
 * Keep track of remote and local changes
 * Thinking in user stories
