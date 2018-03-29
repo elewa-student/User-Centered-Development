@@ -8,7 +8,7 @@ This website is a web portfolio.  It exists so employers and other developers ca
 * [User Stories](#user-stories)
 * [Story Dependencies](#story-dependencies)
 * [Dev Schedule](#development-schedule)
-* [Wireframe](https://wireframe.cc/wPUR6v)
+* [Wireframe](#wireframe)
 * [Notes](#notes)
 
 ---
@@ -67,6 +67,17 @@ I'll develop the features in this order, respecting their dependencies (ie. not 
 [TOP](#index)
 
 ---
+
+## Wireframe
+
+This is a very basic portfolio page, nothing outstanding.  It contains the basic info an employer or collaborator would want to know nicely laid out in a static site.
+
+I had many great ideas for making it cooler but am not comfortable enough yet to program them, so I went with something I could easily build in a day.
+
+https://wireframe.cc/wPUR6v
+
+[TOP](#index)
+___
 
 ## Notes
 
